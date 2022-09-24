@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Randel John Cabelin</a></h1>
-<h3 align="center">A passionate Full-Stack Web Developer from Philippines &#127470;&#127475</h3>
+<h3 align="center">A passionate Full-Stack Web Developer from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GhostZen23&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
