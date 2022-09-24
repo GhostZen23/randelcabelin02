@@ -47,7 +47,7 @@ Randel John Cabelin</a></h1>
 
 ### Blogs posts
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START 
 
 - [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
 - [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
